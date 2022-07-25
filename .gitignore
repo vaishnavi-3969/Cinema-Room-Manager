@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Topics/Integer types and operations/Difference of times/out/
+/Topics/Integer types and operations/Difference of times/out/production/classes/
