@@ -342,5 +342,8 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/11108#comment
-status: Unchecked
+status: Failed
+feedback:
+  message: Failed to launch checking
+  time: Mon, 25 Jul 2022 10:12:58 UTC
 record: -1
